@@ -1,0 +1,59 @@
+
+body {
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    background-color: #ffeb3b;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width:500px;
+    margin: 50px auto;
+    background:white;
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+}
+
+h1 {
+    color:black;
+    font-size:40px;
+    margin-bottom: 5px;
+}
+
+h2 {
+    font-size: 18px;
+    color:black;
+    margin-bottom: 15px;
+}
+
+.minions-img {
+    width: 200px;
+    display: block;
+    margin: 0 auto 20px auto;
+}
+
+
+#joke-box {
+    background:#ffeb3b;
+    padding: 20px;
+    border-radius: 10px;
+    font-size: 20px;
+    min-height: 80px;
+}
+
+button {
+    background:orange;
+    color: white;
+    padding: 12px 20px;
+    font-size: 20px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+button:hover {
+    background:rgb(255, 199, 95);
+}
